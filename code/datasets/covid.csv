@@ -1,0 +1,22 @@
+country,quarantine start,facemask obligation,avg temp,rice
+Argentina,13,yes,24.3,no
+Belgium,17,yes,7.6,no
+Brazil,NA,no,21.15,no
+Canada,45,yes,-3.2,no
+China,45,yes,1.4,yes
+France,53,no,5.4,no
+Germany,56,yes,5.7,no
+Hungary,23,no,3.1,no
+India,55,no,20.3,yes
+Indonesia,33,no,26.2,yes
+Italy,17,no,8.7,no
+Japan,84,yes,7.2,yes
+Malaysia,53,yes,26.06,yes
+Netherlands,18,no,4.8,no
+Russia,59,no,-2.7,no
+Singapore,75,yes,25.9,yes
+South Korea,35,yes,0.5,yes
+Spain,43,no,7.2,no
+Thailand,66,no,26.3,yes
+United States,64,no,3.5,no
+Vietnam,46,yes,18.9,yes
