@@ -17,6 +17,17 @@ So, analyse and provide and **alternative hypothesis** by selecting variable ava
 
 Use the R-Studio
 
+#### Library Used
+
+- tidyverse
+- e1071
+- fpp2 
+- corrplot 
+- mgcv
+- caret
+
+```install.packages(c("tidyverse", "e1071", "fpp2", "corrplot", "mgcv", "caret"))```
+
 ## Implementation
 
 #### Data Wrangling
